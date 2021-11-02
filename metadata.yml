@@ -1,0 +1,15 @@
+---
+:id: 59795815
+:submitters:
+- :name: Walid Rafei
+  :email: wrafei@ucsd.edu
+- :name: Nathan Nguyen
+  :email: nanguyen@ucsd.edu
+- :name: andrew hernandez
+  :email: anh190@ucsd.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-12-17 23:10:10.916505000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-12-17 15:10:10.916505000 Z
+:status: processed
